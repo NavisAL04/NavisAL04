@@ -32,10 +32,19 @@ I build interactive games and the systems behind them, with a primary focus on *
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📌 Featured Projects
+## 🎮 Featured Roblox Games
 
-- 🎮 **[donation-bridge](https://github.com/NavisAL04/donation-bridge)** &mdash; Real-time bridge that streams donations from Indonesian platforms (**Saweria, Sociabuzz, Tako**) straight into **Roblox** games, with Discord alerts and a Google Sheets leaderboard. _Node.js &middot; Express &middot; Roblox API &middot; Vercel_
-- 🕹️ **My Roblox Game** &mdash; _coming soon_ 👀
+| Game | Description |
+| ---- | ----------- |
+| 🏔️ **[Mount Dream](https://www.roblox.com/games/76303993908173/)** | Adventure climbing experience with fishing, cooking, paragliding & co-op carrying |
+| 🏔️ **[Mount Dream V2](https://www.roblox.com/games/77650773646086/)** | Revamped 50-checkpoint climb with Easy → Hard difficulty paths |
+| 🏔️ **[Mount Vechnost](https://www.roblox.com/games/77504466204145/)** | 20-checkpoint Medium climb focused on precise movement & flow |
+| 😱 **[Nightmare Expedition](https://www.roblox.com/games/134309091799294/)** | 34-stage racing obby for up to 10 players |
+| 🎶 **[Desa Koplo](https://www.roblox.com/games/88892810471433/)** | Social music & dancing hangout with an Indonesian village vibe |
+
+## 📌 Other Projects
+
+- 🔌 **[donation-bridge](https://github.com/NavisAL04/donation-bridge)** &mdash; Real-time bridge that streams donations from Indonesian platforms (**Saweria, Sociabuzz, Tako**) straight into **Roblox** games, with Discord alerts and a Google Sheets leaderboard. _Node.js &middot; Express &middot; Roblox API &middot; Vercel_
 
 ## 📊 GitHub Stats
 
