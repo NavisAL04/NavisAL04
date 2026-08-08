@@ -1,6 +1,6 @@
-# Hi, I'm NavisAL 👋🎮
+# Hi, I'm NavisAL 👋
 
-### 🎮 Game Developer | Roblox & Lua | S1 Sistem Informasi
+### 🎮 Game Developer | Roblox & Lua
 
 I build interactive games and the systems behind them, with a primary focus on **Roblox (Lua)** and a growing skillset in **Unity**. I love crafting gameplay mechanics, wiring up live services to games, and solving logic problems.
 
