@@ -4,7 +4,7 @@
 
 I build interactive games and the systems behind them, with a primary focus on **Roblox (Lua)** and a growing skillset in **Unity**. I love crafting gameplay mechanics, wiring up live services to games, and solving logic problems.
 
-🌱 Fresh graduate &middot; 📍 Indonesia &middot; 💼 Open to **Remote / On-site** roles
+📍 Indonesia &middot; 💼 Open to **Remote / On-site** roles
 
 ---
 
